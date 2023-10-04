@@ -1,4 +1,4 @@
-import { fetchBreeds, fetchCatByBreed } from './cat-api.js';
+import { fetchBreeds, fetchCatByBreed } from './cat-api';
 
 const BASE_URL = 'https://api.thecatapi.com/v1/';
 const API_KEY =
